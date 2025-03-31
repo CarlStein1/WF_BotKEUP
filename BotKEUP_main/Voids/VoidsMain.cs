@@ -25,8 +25,8 @@ namespace BotKEUP_main
                 { "Patronymic", "Отчество" },
                 { "ApplicationDate", "ДатаЗаявки" },
                 { "Position", "Должность" },
-                { "GroupName", "НазваниеГруппы" },
-                { "Specialization", "Специализация" },
+                { "GroupName", "Группа" },
+                { "Specialization", "Специальность" },
                 { "MaxCourse", "МаксимальныйКурс"},
                 { "Code", "Код"},
                 { "IsLeader", "Староста"}
