@@ -70,7 +70,7 @@
             this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(30);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             this.guna2HtmlLabel1.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(237, 48);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(408, 48);
             this.guna2HtmlLabel1.TabIndex = 6;
             this.guna2HtmlLabel1.Text = "{Заголовок}";
             this.guna2HtmlLabel1.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
